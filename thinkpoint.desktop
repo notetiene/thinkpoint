@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=thinkpoint
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-Notify=true
+X-GNOME-Autostart-enabled=true
+Name=Thinkpoint
+Comment=Set the ThinkPad TrackPoint sensitivity
